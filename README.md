@@ -1,1 +1,1 @@
-# online-course-portal
+# Online Course Management System
